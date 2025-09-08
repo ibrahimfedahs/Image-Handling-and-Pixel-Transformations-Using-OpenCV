@@ -1,5 +1,3 @@
-<img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/5005d720-4fbf-417c-91ea-d038df585984" /><img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/82d77882-eb76-4dfc-81e8-2a52b07ea85b" /># Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -248,6 +246,7 @@ plt.show()
 <img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/9d50b6aa-d965-4dac-92b2-6cac51bfd126" />
 <img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/92c590a1-41ee-4a6b-89ad-628a65bf3307" />
 <img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/f3bc2c33-2255-4bf3-bf80-079d4c61b316" />
+<img width="515" height="372" alt="download" src="https://github.com/user-attachments/assets/1dc447a6-7cfb-413b-b1b6-080eb42661d4" />
 
 
 
